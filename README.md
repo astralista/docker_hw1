@@ -2,7 +2,7 @@
 
 #### Собираем Docker-образ:
 ```
-docker build -t my-custom-nginx
+docker build -t my-custom-nginx .
 ```
 
 #### Запускаем контейнер:
